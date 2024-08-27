@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Johnson's lectures are incredibly clear and engaging. She makes difficult concepts easy to understand."
+      },
+      {
+        "professor": "Prof. Michael Lee",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Great professor with a deep understanding of the subject. However, the grading can be a bit harsh."
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "Mathematics",
+        "stars": 3,
+        "review": "Dr. Davis is knowledgeable but her lectures can be quite dry. More examples would help."
+      },
+      {
+        "professor": "Prof. James Martinez",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "His lectures are not very organized, and the exams are tough. Not the best experience."
+      },
+      {
+        "professor": "Dr. Angela White",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. White is very approachable and helpful. The course material is challenging but rewarding."
+      },
+      {
+        "professor": "Prof. David Kim",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Fantastic professor! His passion for chemistry is contagious, and the labs are well-organized."
+      },
+      {
+        "professor": "Dr. Richard Brown",
+        "subject": "History",
+        "stars": 3,
+        "review": "The lectures are informative, but there is a lot of reading. The exams are fair."
+      },
+      {
+        "professor": "Prof. Laura Hernandez",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Prof. Hernandez is a great lecturer and the course content is interesting. The workload is manageable."
+      },
+      {
+        "professor": "Dr. William Johnson",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "Dr. Johnson's lectures are confusing and hard to follow. The assignments are unclear."
+      },
+      {
+        "professor": "Prof. Jessica Lee",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "An amazing professor who cares about her students. Her classes are thought-provoking."
+      },
+      {
+        "professor": "Dr. Christopher Wang",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Dr. Wang is very knowledgeable and helpful. The course is challenging but worth it."
+      },
+      {
+        "professor": "Prof. Maria Garcia",
+        "subject": "Literature",
+        "stars": 3,
+        "review": "Her lectures are interesting, but the reading list is overwhelming. The essays are graded fairly."
+      },
+      {
+        "professor": "Dr. Robert Smith",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Smith's lectures are clear and concise. The problem sets are tough but fair."
+      },
+      {
+        "professor": "Prof. Amanda Robinson",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Prof. Robinson is an excellent lecturer and the discussions are very engaging. Highly recommend."
+      },
+      {
+        "professor": "Dr. Kevin Thompson",
+        "subject": "Computer Science",
+        "stars": 2,
+        "review": "The lectures are too fast-paced and the assignments are difficult. Not the best experience."
+      },
+      {
+        "professor": "Prof. Elizabeth Clark",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Prof. Clark is passionate about art history and it shows in her lectures. The course is fantastic."
+      },
+      {
+        "professor": "Dr. Charles Martinez",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Dr. Martinez is knowledgeable, but the lectures can be a bit dull. The labs are interesting though."
+      },
+      {
+        "professor": "Prof. Rebecca Lewis",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Great professor with interesting lectures. The course material is challenging but doable."
+      },
+      {
+        "professor": "Dr. Steven Wilson",
+        "subject": "Mathematics",
+        "stars": 1,
+        "review": "Dr. Wilson's lectures are extremely difficult to follow, and the exams are brutal. Avoid if possible."
+      },
+      {
+        "professor": "Prof. Olivia Anderson",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Prof. Anderson is amazing! Her lectures are engaging and she really cares about her students."
+      }
+    ]
+  }
+  
